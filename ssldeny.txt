@@ -1,0 +1,2 @@
+Annotation :
+  nginx.ingress.kubernetes.io/ssl-redirect: false
