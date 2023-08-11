@@ -1,0 +1,2 @@
+kubectl expose deploy sample-1 --type=ClusterIP --port=3000
+kubectl expose deploy sample-2 --type=ClusterIP --port=3000
