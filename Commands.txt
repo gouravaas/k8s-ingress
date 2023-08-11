@@ -1,0 +1,11 @@
+=> To view deployments :
+- kubectl get deploy
+
+=> To view service :
+- kubectl get svc
+
+=> To view ingress :
+- kubectl get ing
+
+=> To describe ingress :
+- kubectl describe ing <ing-name>
