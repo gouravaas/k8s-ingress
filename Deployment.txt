@@ -1,0 +1,2 @@
+kubectl create deploy sample-1 --image=devopsprosamples/next-path-sample-1
+kubectl create deploy sample-2 --image=devopsprosamples/next-path-sample-2
